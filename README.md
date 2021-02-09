@@ -1,1 +1,7 @@
 # walraven.github.io
+
+My name is Taylor and I am an aspiring data scientist from Houston, Texas. I worked in a retail position and I made a decent living, but it wasn't enough to enrich the life of my son in the ways I wanted. After stumbling upon the Data Analytics and Visualization Boot Camp through Rice University, I took the application test and scored 100%. I finished the course in March and I've been looking for work since.
+
+I graduated from the boot camp just after the president declared a state of national emergency in response to the covid-19 pandemic. I am making a career change into the field of data science and relying on the skills I learned in the course and I've continued to expand upon since then to succeed. I have developed proficiency in technologies including python JavaScript SQL mongoDB and Excel.
+
+My passion is humanity. I have traveled only a little but I have met people from all over the globe and had meaningful conversations and relationships with them. I find that we are all nearly identical in our needs and our drives. I want to study and learn and discover the patterns in behavior that can be deduced from the ocean of data that's available in the world today.  Data science could be considered the nitty-gritty of economics or sociology, and that's where my interests lie: in building the tools to enable rigorous statistical analysis of the data to answer the hard questions of society and life therein.
